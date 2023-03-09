@@ -1,0 +1,15 @@
+.h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color:whitesmoke;
+}
+
+.button {
+    background-color: black;
+    color:whitesmoke
+}
+
+.header-image {
+    width:300px;
+    height:auto;
+}
